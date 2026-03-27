@@ -23,3 +23,9 @@ Webcraft employs an MVVM-inspired architecture, heavily utilizing SwiftUI for it
 
 - **SwiftUI**: Powers all visual components, layouts, components, and animations across the application.
 - **Swift Playgrounds**: Formatted explicitly as a `.swiftpm` package for seamless plug-and-play local development and rapid iteration on both macOS and iPadOS.
+
+## Demo
+
+https://github.com/user-attachments/assets/75fe8ca4-4704-48c7-aa09-f113f279e04d
+
+
